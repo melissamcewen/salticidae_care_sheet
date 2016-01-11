@@ -52,5 +52,8 @@ Many people who keep these spiders do so for macro photography purposes. So bein
 ## Molting
 Growing spiders molt around every three weeks. When molting they will build a thick sac and remain in it. Do not disturb a spider that is molting. When molting is done they may take some time to venture out. 
 
+## Hibernation
+Many temperate species hibernate in the winter, but those in captivity may not if they are kept at room temperature and artifically lit.
+
 ## Senescence
 There is not much research on how long these spiders live. [Some research suggests 800 days for *Sitticus fasciger*](http://www.bioone.org/doi/abs/10.1636/04-73.1) a very small common spider. Older spiders experience wear on their feet that impairs their ability to climb many surfaces like glass, so they may benefit from adding other material they can more easily climb such as sticks. They may also have trouble with live prey and may need to be fed freshly pre-killed prey.
