@@ -14,8 +14,8 @@ Jumping spiders are fastidious so they need to have room to build a nest as well
 ### Substrate
 Some do not use substrate as most popular pet species are arboreal and will spend most of their time climbing, but it is useful for preserving humidity for tropical species like Hyllus. Coco-fiber and orchid bark are often used for this purpose.
 
-### Nesting boxes
-Most common pet species like to built their nests as high as possible in their enclosure. You can provide a ledge such as a small box taped to the size or just a piece of tape for smaller spiders. What do nests look like? Well most of them are just thin silk sacs that provide very basic shelter. When molting or laying eggs they build much thicker sacs.
+### Nesting 
+Most common pet species like to built their nests as high as possible in their enclosure. You can provide a ledge such as a small box taped to the size or just a piece of tape for smaller spiders. What do nests look like? Well most of them are just thin silk sacs that provide very basic shelter. When molting or laying eggs they build much thicker sacs. Some spiders build multiple nests for multiple purposes such as one for resting and one for feeding.
 
 ### Cleaning 
 Spider waste is usually a white liquid that looks a bit like bird droppings. If your spider enclosure looks dirty, wipe it with a damp cloth of water and vinegar, then use a microfiber cloth to buff and dry it. That will remove any waste and old webbing. Just make sure not to disturb or destroy your spider's nest while cleaning. Luckily they tend to nest in 1-2 small places.
