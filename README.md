@@ -48,7 +48,7 @@ Many people who keep these spiders do so for macro photography purposes. So bein
 * You can also try hand feeding if your hands are easily able to hold prey in a way in which they can still grab it. They probably will not consume the prey on your hand though, most of mine grab it and bring it back to a lair of some kind to eat.
 * Leave some time between doing things that might disturb them and showing your hands or camera, so they don't associate either with the annoying action. Such things include: misting their enclosure, moving them to a new enclosure, or cleaning their enclosure.
 * Put their enclosures in places where you spend a lot of time and they can see you, so they get used to you.
-* 
+
 ## Life Stages
 
 ### Molting
