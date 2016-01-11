@@ -36,9 +36,18 @@ Some more arboreal species like *P. otiosus* are known to exclusively prefer fly
 
 
 ### Caution (Most jumping spiders cannot eat these and they can endanger your spider)
-Beetles (special caution with fireflies- they look edible but are poisonous)
-Ants (can be quite aggressive and spray formic acid)
-Other spiders (though a few jumping spiders specialize in eating other spiders)
+* Beetles (special caution with fireflies- they look edible but are poisonous)
+* Ants (can be quite aggressive and spray formic acid)
+* Other spiders (though a few jumping spiders specialize in eating other spiders)
+
+## Handling
+Many people who keep these spiders do so for macro photography purposes. So being able to manage them is useful so you can get good shots. Some general behaviorial tips for handling and taming them are:
+* Don't pick up your spiders with your hands. If you need to move them do it by gently coaxing them into a container with something else. This way they won't associate your hands with being attacked.
+* Slowly and carefully introduce your hands into their enclosure, over time they may jump on to them out of curiousity. Once they are on your hand, do not make loud noises or sudden movements. 
+* Signs you should back off are them running away or doing a "threat display" with their front legs up. Yes, they do bite if provoked enough, though they are reluctant to do so. Their venom isn't enough to seriously harm you, but it will hurt and you'll likely experience swelling and redness.
+* You can also try hand feeding if your hands are easily able to hold prey in a way in which they can still grab it. They probably will not consume the prey on your hand though, most of mine grab it and bring it back to a lair of some kind to eat.
+* Leave some time between doing things that might annoy them and showing your hands or camera, so they don't associate your either with the annoying action. Such things include: misting their enclosure, moving them to a new enclosure, cleaning their enclosure, etc.
+Put their enclosures in places where you spend a lot of time and they can see you, so they get used to you.
 
 ## Molting
 Growing spiders molt around every three weeks. When molting they will build a thick sac and remain in it. Do not disturb a spider that is molting. When molting is done they may take some time to venture out. 
