@@ -15,7 +15,7 @@ Jumping spiders are fastidious so they need to have room to build a nest as well
 Some do not use substrate as most popular pet species are arboreal and will spend most of their time climbing, but it is useful for preserving humidity for tropical species like Hyllus. Coco-fiber and orchid bark are often used for this purpose.
 
 ### Nesting boxes
-Most common pet species like to built their nests as high as possible in their enclosure. You can provide a ledge such as a small box taped to the size or just a piece of tape for smaller spiders. 
+Most common pet species like to built their nests as high as possible in their enclosure. You can provide a ledge such as a small box taped to the size or just a piece of tape for smaller spiders. What do nests look like? Well most of them are just thin silk sacs that provide very basic shelter. When molting or laying eggs they build much thicker sacs.
 
 ### Cleaning 
 Spider waste is usually a white liquid that looks a bit like bird droppings. If your spider enclosure looks dirty, wipe it with a damp cloth of water and vinegar, then use a microfiber cloth to buff and dry it. That will remove any waste and old webbing. Just make sure not to disturb or destroy your spider's nest while cleaning. Luckily they tend to nest in 1-2 small places.
@@ -39,3 +39,9 @@ Some more arboreal species like *P. otiosus* are known to exclusively prefer fly
 Beetles (special caution with fireflies- they look edible but are poisonous)
 Ants (can be quite aggressive and spray formic acid)
 Other spiders (though a few jumping spiders specialize in eating other spiders)
+
+## Molting
+Growing spiders molt around every three weeks. When molting they will build a thick sac and remain in it. Do not disturb a spider that is molting. When molting is done they may take some time to venture out. 
+
+## Senescence
+There is not much research on how long these spiders live. [Some research suggests 800 days for *Sitticus fasciger*](http://www.bioone.org/doi/abs/10.1636/04-73.1) a very small common spider. Older spiders experience wear on their feet that impairs their ability to climb many surfaces like glass, so they may benefit from adding other material they can more easily climb such as sticks. They may also have trouble with live prey and may need to be fed freshly pre-killed prey.
