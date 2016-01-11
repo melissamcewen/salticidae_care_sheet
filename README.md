@@ -48,12 +48,16 @@ Many people who keep these spiders do so for macro photography purposes. So bein
 * You can also try hand feeding if your hands are easily able to hold prey in a way in which they can still grab it. They probably will not consume the prey on your hand though, most of mine grab it and bring it back to a lair of some kind to eat.
 * Leave some time between doing things that might disturb them and showing your hands or camera, so they don't associate either with the annoying action. Such things include: misting their enclosure, moving them to a new enclosure, or cleaning their enclosure.
 * Put their enclosures in places where you spend a lot of time and they can see you, so they get used to you.
+* 
+## Life Stages
 
-## Molting
+### Molting
 Growing spiders molt around every three weeks. When molting they will build a thick sac and remain in it. Do not disturb a spider that is molting. When molting is done they may take some time to venture out. 
 
-## Hibernation
+### Hibernation
 Many temperate species hibernate in the winter, but those in captivity may not if they are kept at room temperature and artifically lit.
 
-## Senescence
+### Breeding
+
+### Senescence
 There is not much research on how long these spiders live. [Some research suggests 800 days for *Sitticus fasciger*](http://www.bioone.org/doi/abs/10.1636/04-73.1) a very small common spider. Older spiders experience wear on their feet that impairs their ability to climb many surfaces like glass, so they may benefit from adding other material they can more easily climb such as sticks. They may also have trouble with live prey and may need to be fed freshly pre-killed prey.
