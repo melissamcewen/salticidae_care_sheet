@@ -34,6 +34,8 @@ Salticidae enjoy a wide variety of prey including crickets, mealworms, moths, an
 
 Some more arboreal species like *P. otiosus* are known to exclusively prefer flying prey. They may ignore crickets and other insects. Some keepers have noted that they will eat crickets if you hang them from a string and dangle them a bit to entice them.
 
+Most spiders will eat freshly killed prey.
+
 
 ### Caution (Most jumping spiders cannot eat these and they can endanger your spider)
 * Beetles (special caution with fireflies- they look edible but are poisonous)
