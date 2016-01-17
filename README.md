@@ -6,12 +6,14 @@ There are over 5000 species of jumping spider, but the most common ones kept as 
 
 Phidippus species can easily be collected outside in the U.S. in warmer months. Otherwise, there are a few sources online to buy these spiders such as [phids.net](http://phids.net/) or several Facebook groups.
 
+Salticidae are very different from tarantulas. Their keen eyesight and method of hunting has allowed them to evolve skills we consider much more intelligent including the ability to [quickly form and reverse associations](http://www.sciencedirect.com/science/article/pii/S0376635713002623), [navigate in virtual reality](http://www.sciencedirect.com/science/article/pii/S0003347215002353), [learn by trial and error](http://www.tandfonline.com/doi/abs/10.1080/03014223.2002.9518294) and [learn from observing conspecifics](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1078&context=bioscidiss).
+
 ## Enclosures
-While jumping spiders are smaller than more common pet spiders like tarantulas, they are also more intelligent and active, so typically they need more space than their small size might imply.  It's ideal that any enclosure not open at the top, since this is where most popular salticidae species will build their nests, which will obstruct opening at the top.
+While jumping spiders are smaller than more common pet spiders like tarantulas, they are also more intelligent and active, so may  need more space than their small size might imply, though this is hotly debated. Some successful breeders use very small containers, others like to keep their spiders in larger enclosures. Either way it's ideal that any enclosure not open at the top, since this is where most popular salticidae species will build their nests, which will obstruct opening at the top.
 
 Popular options
 * [Phids.net](http://phids.net/enclosures.html) vented display cases (US)
-* [Jamie's Tarantula's](https://jamiestarantulas.com) vented display cases for spiderlings or juveniles (note that jumping spiders need a lot more room relative to their size than tarantulas) (US)
+* [Jamie's Tarantula's](https://jamiestarantulas.com) vented display cases for spiderlings or juveniles (US)
 * [Bugzarre](http://www.ebay.com/usr/bugzarre?_trksid=p2047675.l2559) vented display cases (UK)
 * [Exo Terra Nano](http://www.exo-terra.com/en/products/natural_terrarium_nano.php)
 * [Reptile Enclosure.com](http://www.reptile-enclosure.com/) front opening options (US)
