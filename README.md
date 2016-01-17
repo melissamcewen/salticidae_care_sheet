@@ -7,7 +7,7 @@ There are over 5000 species of jumping spider, but the most common ones kept as 
 Phidippus species can easily be collected outside in the U.S. in warmer months. Otherwise, there are a few sources online to buy these spiders such as [phids.net](http://phids.net/) or several Facebook groups.
 
 ## Enclosures
-While jumping spiders are smaller than more common pet spiders like tarantulas, they are also more intelligent and active, so typically they need more space than their small size might imply. Some popular enclosures include the Exo Terra Nanos and vented acrylic display cases (modified from those used for collectibles) which you can buy online at places like [Jamie's Tarantula's](https://jamiestarantulas.com/enclosures/small-spiderling-enclosures/) or make yourself by drilling ventilation holes in a display case.
+While jumping spiders are smaller than more common pet spiders like tarantulas, they are also more intelligent and active, so typically they need more space than their small size might imply. Some popular enclosures include the Exo Terra Nanos and vented acrylic display cases (modified from those used for collectibles) which you can buy online at places like [Jamie's Tarantula's](https://jamiestarantulas.com/enclosures/small-spiderling-enclosures/) or make yourself by drilling ventilation holes in a display case. It's ideal that any enclosure not open at the top, since this is where most popular salticidae species will build their nests, which will obstruct opening at the top.
 
 Jumping spiders are fastidious so they need to have room to build a nest as well as seperate spaces away from the nest where they can dispose of eaten prey and defecate.
 
