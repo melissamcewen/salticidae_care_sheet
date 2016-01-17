@@ -21,7 +21,7 @@ Popular options
 * [Reptile Enclosure.com](http://www.reptile-enclosure.com/) front opening options (US)
 * Make yourself by drilling ventilation holes in a display case.
 
-Jumping spiders are fastidious so they need to have room to build a nest as well as seperate spaces away from the nest where they can dispose of eaten prey and defecate.
+One argument for larger enclosures is that they fastidious so they need to have room to build a nest as well as separate spaces away from the nest where they can dispose of eaten prey and defecate. Some species like *Phidippus audax* and "Phidippus regius* have also been observed constructing multiple nests for different uses, for example a separate nest for eating and another for resting.
 
 ### Substrate
 Some do not use substrate as most popular pet species are arboreal and will spend most of their time climbing, but it is useful for preserving humidity for tropical species like Hyllus. Coco-fiber and orchid bark are often used for this purpose.
