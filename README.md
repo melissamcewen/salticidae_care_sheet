@@ -19,6 +19,7 @@ Popular options
 * [Bugzarre](http://www.ebay.com/usr/bugzarre?_trksid=p2047675.l2559) vented display cases (UK)
 * [Exo Terra Nano](http://www.exo-terra.com/en/products/natural_terrarium_nano.php)
 * [Reptile Enclosure.com](http://www.reptile-enclosure.com/) front opening options (US)
+* [J&K Aquatics](http://www.jnk-aquatics.co.uk/reptile/vivariums.html) (UK)
 * Make yourself by drilling ventilation holes in a display case.
 
 One argument for larger enclosures is that they fastidious so they need to have room to build a nest as well as separate spaces away from the nest where they can dispose of eaten prey and defecate. Some species like *Phidippus audax* and "Phidippus regius* have also been observed constructing multiple nests for different uses, for example a separate nest for eating and another for resting.
