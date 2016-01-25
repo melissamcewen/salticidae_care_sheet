@@ -1,6 +1,8 @@
 # Jumping Spider (Salticidae) Care Sheet
 This was started when I started the [Jumping Spider Keepers/Husbandry FB Group](https://www.facebook.com/groups/1620188578256853/) and I've put it on here so it can get to a wider audience. I encourage contributions since there really isn't much out there for people who keep Salticidae in captivity.
 
+Please add your spider's life events and morphology notes to our [Google Docs](https://docs.google.com/spreadsheets/d/1AfJG02oN4gXxtBVqQk9FszJ857RBuPF-9dLTA33eTAA/edit?usp=sharing).
+
 ## Species and sources
 There are over 5000 species of jumping spider, but the most common ones kept as pets are larger species, particularly those in the Phidippus genus such as *Phidippus regius* which can reach about an inch in size (22 mm). Females are almost always larger than males. Even larger tropical members of the Hyllus genus such as *Hyllus diardi* and *Hyllus giganteus* have also recently entered the pet trade in the US and UK. Females of these species can reach 1.2 inches (33 mm) long. 
 
@@ -9,6 +11,20 @@ Phidippus species can easily be collected outside in the U.S. in warmer months. 
 Salticidae are very different from tarantulas. Their keen eyesight and method of hunting has allowed them to evolve skills we consider much more intelligent including the ability to [quickly form and reverse associations](http://www.sciencedirect.com/science/article/pii/S0376635713002623), [navigate in virtual reality](http://www.sciencedirect.com/science/article/pii/S0003347215002353), [learn by trial and error](http://www.tandfonline.com/doi/abs/10.1080/03014223.2002.9518294) and [learn from observing conspecifics](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1078&context=bioscidiss).
 
 >Weasels may be cunning, we might admire the intelligence of dogs and cats, but we can be forgiven for expecting the jumping spider, a diminutive predator with a brain not much bigger than a poppy seed, to be one of Descartes' automatons. Yet, jumping spiders, also known as salticids, alternate between entertaining and alarming us by planning prey-capture tactics ahead of time, adjusting their hunting behaviour in accordance with how the prey responds and giving us other examples of un-spider-like acumen- [One small leap for the jumping spider but a giant step for vision science](http://jeb.biologists.org/content/212/14/2129.short).
+
+### Sexing a spider
+The ease of sexing a jumping spider will depend on the spider's age and species. You can only really be sure if your spider is an adult, though depending on the species it may be easy to tell as a subadult. Hyllus giganteus males and females for example are totally different colors (females light, males dark) even as subadults. With Phiddipus regius there are often color differences from a young age, but it varies from region of origin. 
+
+### Epigynum
+This method should work for any species, but requires a good look at the underside of the spider, which can be very challenging especially with small spiders. It's a tiny opening on the underside of the abdomen. You can see it on my female [Phiddipus Audax here](http://imgur.com/u6UuRJY).
+
+### Pedipalps
+Pedipalps are the two appendages on the front of a spider's head. In many species adult male pedipalps are often described as being "boxing glove"-with swollen ends vs. the straighter ones on females.
+
+### Abdomen shape/size
+
+Females usually look "fatter" but it can be hard to tell the difference unless you have a male of the same species to compare. [Here](https://www.evernote.com/l/AFJ06MIXvitJUJ-HMBWFDBeflPYZvdFv-EA) is an example using P. Audax from Florida from [revision of the jumping spiders of the genus phidippus](http://www.researchgate.net/profile/G_Edwards/publication/242721233_Revision_of_the_Jumping_Spiders_of_the_Genus_Phidippus_(Araneae_Salticidae)_Occasional_Papers_of_the_Florida_State_Collection_of_Arthropods_Volume_11/links/546ba9680cf2397f7831c610.pdf).
+
 
 ## Enclosures
 While jumping spiders are smaller than more common pet spiders like tarantulas, they are also more intelligent and active, so may  need more space than their small size might imply, though this is hotly debated. Some successful breeders use very small containers, others like to keep their spiders in larger enclosures. Either way it's ideal that any enclosure not open at the top, since this is where most popular salticidae species will build their nests, which will obstruct opening at the top.
