@@ -12,6 +12,13 @@ Salticidae are very different from tarantulas. Their keen eyesight and method of
 
 >Weasels may be cunning, we might admire the intelligence of dogs and cats, but we can be forgiven for expecting the jumping spider, a diminutive predator with a brain not much bigger than a poppy seed, to be one of Descartes' automatons. Yet, jumping spiders, also known as salticids, alternate between entertaining and alarming us by planning prey-capture tactics ahead of time, adjusting their hunting behaviour in accordance with how the prey responds and giving us other examples of un-spider-like acumen- [One small leap for the jumping spider but a giant step for vision science](http://jeb.biologists.org/content/212/14/2129.short).
 
+### Anatomy Notes
+It's worth knowing a little about [spider anatomy](https://en.wikipedia.org/wiki/Spider_anatomy) if you are going to keep them. Some interesting facts that are relevant are:
+
+* Spiders do not have ears but can sense sound vibrations through their hairs
+* They also do not have a mouth, they eat/drink by sucking fluids through their fangs. 
+* Spiders are not poisnous, they are venomous, but only a few spiders produce venom that can harm humans. None of these potentially dangerous spiders are salticidae. 
+
 ### Sexing a spider
 The ease of sexing a jumping spider will depend on the spider's age and species. You can only really be sure if your spider is an adult, though depending on the species it may be easy to tell as a subadult. Hyllus giganteus males and females for example are totally different colors (females light, males dark) even as subadults. With Phiddipus regius there are often color differences from a young age, but it varies from region of origin. 
 
