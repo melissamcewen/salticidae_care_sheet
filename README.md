@@ -108,3 +108,10 @@ Many temperate species hibernate in the winter, but those in captivity may not i
 
 ### Senescence
 There is not much research on how long these spiders live. [Some research suggests 800 days for *Sitticus fasciger*](http://www.bioone.org/doi/abs/10.1636/04-73.1) a very small common spider. Older spiders experience wear on their feet that impairs their ability to climb many surfaces like glass, so they may benefit from adding other material they can more easily climb such as sticks. They may also have trouble with live prey and may need to be fed freshly pre-killed prey.
+
+## Species Specific Care Notes
+| Species 	| Light 	| Temperature 	| Humidity 	| Other Notes 	|
+|----------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------	|----------	|-------------	|
+| Hyllus giganteus 	| Bright lighting during the day with shade provided to hide in 	| 25-30 C (77 - 86 F) during the day, as low as 18 C (65 F) at night  	| 70-90% 	|  	|
+| Phidippus species from Northern states such as audax 	| Bright lighting or sunlight in warmer months, can tolerate low light in colder months but will be less active if kept in low light 	| 21 C (70 F) and higher in warmer months, can tolerate low temperatures in colder months but will be inactive if you keep them at these temperatures 	|  	|  	|
+| Phidippus species from Southern states such as regius, otiosus 	| Bright lighting or sunlight in warmer months, can tolerate low light in colder months but will be less active if kept in low light 	| 21 C (70 F) and higher in warmer months, can tolerate low temperatures in colder months but keep above 15 C (60 F) 	|  	|  	|
