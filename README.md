@@ -17,6 +17,7 @@ The ease of sexing a jumping spider will depend on the spider's age and species.
 
 #### Epigynum
 This method should work for any species, but requires a good look at the underside of the spider, which can be very challenging especially with small spiders. It's a tiny opening on the underside of the abdomen. You can see it on this Phiddipus Audax:
+
 ![Source: Melissa McEwen](https://github.com/melissamcewen/salticidae_care_sheet/blob/master/images/female_audax.png?raw=true "Phiddipus audax Epigynum")
 
 #### Pedipalps
@@ -25,6 +26,7 @@ Pedipalps are the two appendages on the front of a spider's head. In many specie
 #### Abdomen shape/size
 
 Females usually look "fatter" but it can be hard to tell the difference unless you have a male of the same species to compare. The following is an example using P. Audax from Florida from [Revision of the jumping spiders of the genus phidippus](http://www.researchgate.net/profile/G_Edwards/publication/242721233_Revision_of_the_Jumping_Spiders_of_the_Genus_Phidippus_(Araneae_Salticidae)_Occasional_Papers_of_the_Florida_State_Collection_of_Arthropods_Volume_11/links/546ba9680cf2397f7831c610.pdf):
+
 ![Source: Revision of the jumping spiders of the genus phidippus](https://github.com/melissamcewen/salticidae_care_sheet/blob/master/images/sexing_abdomen.png?raw=true "Phiddipus audax abdomens")
 
 #### Color/Markings
