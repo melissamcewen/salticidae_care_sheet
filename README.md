@@ -15,15 +15,20 @@ Salticidae are very different from tarantulas. Their keen eyesight and method of
 ### Sexing a spider
 The ease of sexing a jumping spider will depend on the spider's age and species. You can only really be sure if your spider is an adult, though depending on the species it may be easy to tell as a subadult. Hyllus giganteus males and females for example are totally different colors (females light, males dark) even as subadults. With Phiddipus regius there are often color differences from a young age, but it varies from region of origin. 
 
-### Epigynum
-This method should work for any species, but requires a good look at the underside of the spider, which can be very challenging especially with small spiders. It's a tiny opening on the underside of the abdomen. You can see it on my female [Phiddipus Audax here](http://imgur.com/u6UuRJY).
+#### Epigynum
+This method should work for any species, but requires a good look at the underside of the spider, which can be very challenging especially with small spiders. It's a tiny opening on the underside of the abdomen. You can see it on this Phiddipus Audax:
+![Source: Melissa McEwen](https://github.com/melissamcewen/salticidae_care_sheet/blob/master/images/female_audax.png?raw=true "Phiddipus audax Epigynum")
 
-### Pedipalps
+#### Pedipalps
 Pedipalps are the two appendages on the front of a spider's head. In many species adult male pedipalps are often described as being "boxing glove"-with swollen ends vs. the straighter ones on females.
 
-### Abdomen shape/size
+#### Abdomen shape/size
 
-Females usually look "fatter" but it can be hard to tell the difference unless you have a male of the same species to compare. [Here](https://www.evernote.com/l/AFJ06MIXvitJUJ-HMBWFDBeflPYZvdFv-EA) is an example using P. Audax from Florida from [revision of the jumping spiders of the genus phidippus](http://www.researchgate.net/profile/G_Edwards/publication/242721233_Revision_of_the_Jumping_Spiders_of_the_Genus_Phidippus_(Araneae_Salticidae)_Occasional_Papers_of_the_Florida_State_Collection_of_Arthropods_Volume_11/links/546ba9680cf2397f7831c610.pdf).
+Females usually look "fatter" but it can be hard to tell the difference unless you have a male of the same species to compare. The following is an example using P. Audax from Florida from [Revision of the jumping spiders of the genus phidippus](http://www.researchgate.net/profile/G_Edwards/publication/242721233_Revision_of_the_Jumping_Spiders_of_the_Genus_Phidippus_(Araneae_Salticidae)_Occasional_Papers_of_the_Florida_State_Collection_of_Arthropods_Volume_11/links/546ba9680cf2397f7831c610.pdf):
+![Source: Revision of the jumping spiders of the genus phidippus](https://github.com/melissamcewen/salticidae_care_sheet/blob/master/images/sexing_abdomen.png?raw=true "Phiddipus audax abdomens")
+
+#### Color/Markings
+It's hard to tell with markings even with the same species due to geographical variation, but taxonomical references can give you an idea
 
 
 ## Enclosures
