@@ -57,7 +57,7 @@ One argument for larger enclosures is that they fastidious so they need to have 
 But an argument against larger enclosures is that they may make it difficult for a small spider to find their food. Prey may also hide in more complicated enclosures such as planted terrariums.
 
 ### Substrate
-Some do not use substrate as most popular pet species are arboreal and will spend most of their time climbing, but it is useful for preserving humidity for tropical species like Hyllus. Coco-fiber and orchid bark are often used for this purpose.
+Some do not use substrate as most popular pet species are arboreal and will spend most of their time climbing, but it is useful for preserving humidity for tropical species like Hyllus. Coco-fiber and orchid bark are often used for this purpose. Sand is not recommended because it can be irritating.
 
 ### Nesting 
 Most common pet species like to built their nests as high as possible in their enclosure. You can provide a ledge such as a small box taped to the size or just a piece of tape for smaller spiders. What do nests look like? Well most of them are just thin silk sacs that provide very basic shelter. When molting or laying eggs they build much thicker sacs. Some spiders build multiple nests for multiple purposes such as one for resting and one for feeding.
