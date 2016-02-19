@@ -16,7 +16,6 @@ Salticidae are very different from tarantulas. Their keen eyesight and method of
 It's worth knowing a little about [spider anatomy](https://en.wikipedia.org/wiki/Spider_anatomy) if you are going to keep them. Some interesting facts that are relevant are:
 
 * Spiders do not have ears but can sense sound vibrations through their hairs
-* They also do not have a mouth, they eat/drink by sucking fluids through their fangs. 
 * Spiders are not poisnous, they are venomous, but only a few spiders produce venom that can harm humans. None of these potentially dangerous spiders are salticidae. 
 
 ### Sexing a spider
