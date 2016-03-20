@@ -74,7 +74,11 @@ If you live in a very cold climate or you live in a temperate climate and have t
 Tropical species tend to do better with additional lighting during the day such as Exo Terra Repti-Glo 2.0 Compact Fluorescent Full Spectrum Terrarium Lamp, 13-Watt (Natural Light) in the plastic canopy (Exo Terra Nano Plastic Canopy for PT2601). 
 
 ## Food
-Salticidae enjoy a wide variety of prey including crickets, mealworms, moths, and flies. Crickets and flies should be the size of your spider or smaller since they can be aggressive. If you need a source of flies for very small spiders and spiderlings, a wingless/flightless fruit fly culture can be purchased online or at some pet stores and can last as a source for for a month or more. These also make a good supplement for a diet that's primarily crickets. Not much is known about jumping spider nutrition, but it may be best to have some variety. 
+Salticidae enjoy a wide variety of prey including crickets, mealworms, moths, and flies. Crickets and flies should be the size of your spider or smaller since they can be aggressive. 
+
+If you need a source of flies for very small spiders and spiderlings, a wingless/flightless fruit fly culture can be purchased online or at some pet stores and can last as a source for for a month or more. These also make a good supplement for a diet that's primarily crickets. Not much is known about jumping spider nutrition, but it may be best to have some variety. 
+
+Another source of food for smaller spiders is springtails, which are easy to culture yourself. More info about this coming soon.
 
 Some more arboreal species like *P. otiosus* are known to exclusively prefer flying prey. They may ignore crickets and other insects. Some keepers have noted that they will eat crickets if you hang them from a string and dangle them a bit to entice them.
 
