@@ -73,8 +73,8 @@ If you live in a very cold climate or you live in a temperate climate and have t
 ### Light
 Tropical species tend to do better with additional lighting during the day such as Exo Terra Repti-Glo 2.0 Compact Fluorescent Full Spectrum Terrarium Lamp, 13-Watt (Natural Light) in the plastic canopy (Exo Terra Nano Plastic Canopy for PT2601). 
 
-#### Example setups
-##### Tropical Exo Terra Nano/Tall
+### Example setups
+#### Tropical Exo Terra Nano/Tall
 For housings Hyllus diardi
 * Heat mat running 24/7: Zilla Heat Mat, Small 8 Watt
 * Timer (Zoo Med AquaSun Aquarium Timer) running during day: 2nd Zilla Heat Mat, Small 8 Watt + Exo Terra Repti-Glo 2.0 Compact Fluorescent Full Spectrum Terrarium Lamp, 13-Watt (Natural Light) 
