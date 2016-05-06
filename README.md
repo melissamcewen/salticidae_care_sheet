@@ -75,7 +75,7 @@ Tropical species tend to do better with additional lighting during the day such 
 
 ### Example setups
 #### Tropical Exo Terra Nano/Tall
-For housings Hyllus diardi
+For housing Hyllus diardi
 * Heat mat running 24/7: Zilla Heat Mat, Small 8 Watt
 * Timer (Zoo Med AquaSun Aquarium Timer) running during day: 2nd Zilla Heat Mat, Small 8 Watt + Exo Terra Repti-Glo 2.0 Compact Fluorescent Full Spectrum Terrarium Lamp, 13-Watt (Natural Light) 
 * Exo Terra Plantation Soil substrate with assorted tropical plants, kept moist
