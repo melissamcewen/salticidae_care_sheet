@@ -68,10 +68,18 @@ Spider waste is usually a white liquid that looks a bit like bird droppings. If 
 Misting once a day provides enough moisture for most temperate species. Tropical species from moist environments like Hyllus need more misting and should also have additional moisture in their enclosure such as a humidity preserving substrate or a wet sea sponge. Note that spiders cannot ingest moisture gels used for other arthropods like crickets.
 
 ### Heat
-If you live in a very cold climate or you live in a temperate climate and have tropical spiders, you might want to add some heating. Some popular methods include heat mats (Zilla 09936 Terrarium Heater Heat Mat, 4-Watt, 4-Inch by 7-Inch for example) and light, which is covered in the next section.
+If you live in a very cold climate or you live in a temperate climate and have tropical spiders, you might want to add some heating. Some popular methods include heat mats and light, which is covered in the next section.
 
 ### Light
 Tropical species tend to do better with additional lighting during the day such as Exo Terra Repti-Glo 2.0 Compact Fluorescent Full Spectrum Terrarium Lamp, 13-Watt (Natural Light) in the plastic canopy (Exo Terra Nano Plastic Canopy for PT2601). 
+
+#### Example setups
+##### Tropical Exo Terra Nano/Tall
+For housings Hyllus diardi
+* Heat mat running 24/7: Zilla Heat Mat, Small 8 Watt
+* Timer (Zoo Med AquaSun Aquarium Timer) running during day: 2nd Zilla Heat Mat, Small 8 Watt + Exo Terra Repti-Glo 2.0 Compact Fluorescent Full Spectrum Terrarium Lamp, 13-Watt (Natural Light) 
+* Exo Terra Plantation Soil substrate with assorted tropical plants, kept moist
+* Regular misting
 
 ## Food
 Salticidae enjoy a wide variety of prey including crickets, mealworms, moths, and flies. Crickets and flies should be the size of your spider or smaller since they can be aggressive. 
