@@ -92,7 +92,9 @@ Some people feed adult spiders dubia roaches and mealworms.
 
 Some more arboreal species like *P. otiosus* are known to exclusively prefer flying prey. They may ignore crickets and other insects. Some keepers have noted that they will eat crickets if you hang them from a string and dangle them a bit to entice them.
 
-Most spiders will eat freshly killed prey.
+Most spiders will eat freshly killed prey, which is useful to give if you have sick or old spiders.
+
+Most keepers note that female spiders eat more than males. It can be challenging to figure out how often to feed, but starting every day and spacing out when they ignore food is a good way to find a schedule. 
 
 
 ### Caution (Most jumping spiders cannot eat these and they can endanger your spider)
