@@ -86,7 +86,7 @@ Salticidae enjoy a wide variety of prey including crickets, mealworms, moths, an
 
 If you need a source of flies for very small spiders and spiderlings, a wingless/flightless fruit fly culture can be purchased online or at some pet stores and can last as a source for for a month or more. These also make a good supplement for a diet that's primarily crickets. Not much is known about jumping spider nutrition, but it may be best to have some variety. 
 
-Another source of food for smaller spiders is springtails, which are easy to culture yourself. More info about this coming soon. Some people have managed to feed very small spiderlings [Boost nutritional drink- credit to Catherine Scott on Twitter who shared this solution.](https://twitter.com/Cataranea/status/727537990143086592)
+Another source of food for smaller spiders is springtails, which are easy to culture yourself. More info about this coming soon. See the spiderlings section of this document for more info about feeding spiderlings. 
 
 Some people feed adult spiders dubia roaches and mealworms.
 
@@ -122,7 +122,7 @@ Many temperate species hibernate in the winter, but those in captivity may not i
 ### Raising Juveniles
 Spiderlings need to be fed starting when they leave the nest, for some species without a nest like Lyssomanes, that's immediately. Regardless of species, dehydration is the biggest danger for spiderlings so provide mist droplets often. 
 
-The difficulty of raising spiderlings varies per species. The easiest species are probably Diardi and P. Regius, since the spiderlings are larger and quickly take to consuming fruit flies. Many people have reported poor experiences with raising P. Asotus and P. mystaceus because they are unable to get them to consume provided food. When this occurs providing smaller food like springtails may help, but as a last resort you can try liquid nutrition in the form of droplets of Boost (a nutritional drink for humans) or honey-water. 
+The difficulty of raising spiderlings varies per species. The easiest species are probably Diardi and P. Regius, since the spiderlings are larger and quickly take to consuming fruit flies. Many people have reported poor experiences with raising P. Asotus and P. mystaceus because they are unable to get them to consume provided food. When this occurs providing smaller food like springtails may help, but as a last resort you can try liquid nutrition in the form of droplets of  [Boost nutritional drink (credit to Catherine Scott on Twitter who shared this solution)](https://twitter.com/Cataranea/status/727537990143086592) or honey-water. 
 
 > I bought vanilla regular Boost for a couple of my regius spiderlings that weren't doing so hot. One has drank from a tiny, tiny droplet of it, and went on to catch a fruit fly. The other hasn't seem to have figured out yet that he can drink the Boost. - Lark Salazar via our Facebook group. 
 
