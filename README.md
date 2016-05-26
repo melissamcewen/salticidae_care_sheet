@@ -86,7 +86,7 @@ Salticidae enjoy a wide variety of prey including crickets, mealworms, moths, an
 
 If you need a source of flies for very small spiders and spiderlings, a wingless/flightless fruit fly culture can be purchased online or at some pet stores and can last as a source for for a month or more. These also make a good supplement for a diet that's primarily crickets. Not much is known about jumping spider nutrition, but it may be best to have some variety. 
 
-Another source of food for smaller spiders is springtails, which are easy to culture yourself. More info about this coming soon. Some people have managed to feed very small spiderlings [Boost nutritional drink.](https://twitter.com/Cataranea/status/727537990143086592)
+Another source of food for smaller spiders is springtails, which are easy to culture yourself. More info about this coming soon. Some people have managed to feed very small spiderlings [Boost nutritional drink- credit to Catherine Scott on Twitter who shared this solution.](https://twitter.com/Cataranea/status/727537990143086592)
 
 Some people feed adult spiders dubia roaches and mealworms.
 
