@@ -120,7 +120,12 @@ Many temperate species hibernate in the winter, but those in captivity may not i
 ### Breeding
 
 ### Raising Juveniles
-Dehydration is the biggest danger for spiderlings so provide mist droplets often.
+Spiderlings need to be fed starting when they leave the nest, for some species without a nest like Lyssomanes, that's immediately. Regardless of species, dehydration is the biggest danger for spiderlings so provide mist droplets often. 
+
+The difficulty of raising spiderlings varies per species. The easiest species are probably Diardi and P. Regius, since the spiderlings are larger and quickly take to consuming fruit flies. Many people have reported poor experiences with raising P. Asotus and P. mystaceus because they are unable to get them to consume provided food. When this occurs providing smaller food like springtails may help, but as a last resort you can try liquid nutrition in the form of droplets of Boost (a nutritional drink for humans) or honey-water. 
+
+Most keepers wait to seperate spiderlings because they are easier to raise and have higher survival rates when kept communally. When they get larger and interspecies aggression is witnessed, they are then seperated into individual enclosures.
+
 
 ### Senescence
 There is not much research on how long these spiders live. [Some research suggests 800 days for *Sitticus fasciger*](http://www.bioone.org/doi/abs/10.1636/04-73.1) a very small common spider. Older spiders experience wear on their feet that impairs their ability to climb many surfaces like glass, so they may benefit from adding other material they can more easily climb such as sticks. They may also have trouble with live prey and may need to be fed freshly pre-killed prey.
