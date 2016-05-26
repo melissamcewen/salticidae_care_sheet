@@ -124,6 +124,8 @@ Spiderlings need to be fed starting when they leave the nest, for some species w
 
 The difficulty of raising spiderlings varies per species. The easiest species are probably Diardi and P. Regius, since the spiderlings are larger and quickly take to consuming fruit flies. Many people have reported poor experiences with raising P. Asotus and P. mystaceus because they are unable to get them to consume provided food. When this occurs providing smaller food like springtails may help, but as a last resort you can try liquid nutrition in the form of droplets of Boost (a nutritional drink for humans) or honey-water. 
 
+> I bought vanilla regular Boost for a couple of my regius spiderlings that weren't doing so hot. One has drank from a tiny, tiny droplet of it, and went on to catch a fruit fly. The other hasn't seem to have figured out yet that he can drink the Boost. - Lark Salazar via our Facebook group. 
+
 Most keepers wait to seperate spiderlings because they are easier to raise and have higher survival rates when kept communally. When they get larger and interspecies aggression is witnessed, they are then seperated into individual enclosures.
 
 
