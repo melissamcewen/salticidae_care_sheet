@@ -12,7 +12,12 @@ Salticidae are very different from tarantulas. Their keen eyesight and method of
 
 >Weasels may be cunning, we might admire the intelligence of dogs and cats, but we can be forgiven for expecting the jumping spider, a diminutive predator with a brain not much bigger than a poppy seed, to be one of Descartes' automatons. Yet, jumping spiders, also known as salticids, alternate between entertaining and alarming us by planning prey-capture tactics ahead of time, adjusting their hunting behaviour in accordance with how the prey responds and giving us other examples of un-spider-like acumen- [One small leap for the jumping spider but a giant step for vision science](http://jeb.biologists.org/content/212/14/2129.short).
 
-### Anatomy Notes
+### A Warning About Buying Adult Spiders
+Many people sell adult spiders online and most of these are wild caught. If you buy them you have no idea how old they are or anything else about them. Many people buy adult spiders such as Hyllus diardi and they only live a few months. Since H. diardi is a fairly long lived species, odds are these people got spiders over a year old. 
+
+The trade of wild caught spiders may also lead to negative ecological consequences and introduction of potentially harmful alien species into local environments.
+
+## Anatomy Notes
 It's worth knowing a little about [spider anatomy](https://en.wikipedia.org/wiki/Spider_anatomy) if you are going to keep them. Some interesting facts that are relevant are:
 
 * Spiders do not have ears but can sense sound vibrations through their hairs
